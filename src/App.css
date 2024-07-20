@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar{
+  height: 100px;
+  background-color: rgb(217, 220, 20);
+  align-content: center;
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+a{
+  text-decoration:none;
+  color: white;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+a:hover{
+  color: blue;
+}
+
+
+
